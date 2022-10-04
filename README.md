@@ -41,8 +41,6 @@ From the above observation, noted that:
 - Printing head to confirm whether it has been updated to datatime64 dtype and dates to yyyy-mm-dd.
 
 
-## Analyzes
-
 ## Interpreting statistical findings:
 - On average, users logged 7,637 steps or 5.4km which is not adequate. As recommended by CDC, an adult female has to aim at least 10,000 steps or
 8km per day to benefit from general health, weight loss and fitness improvement. Source: Medical News Today article
